@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1460853963
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: out
+      Dependencies:
+        Dependency_0: hamlet1
+    Info_1:
+      Name: hamlet1
+      Dependencies:
+        Dependency_0: out
+    Info_2:
+      Name: hamlet
+      Dependencies: {}
+    Info_3:
+      Name: macbeth
+      Dependencies: {}

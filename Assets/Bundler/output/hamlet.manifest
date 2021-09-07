@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3624198611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 202926e75402a85cb47756b0be9869cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ecc2e8d717629781f019ff30323ba53
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/hamlet/ActOneSceneTwo.txt
+- Assets/Resources/hamlet/HAMLET_FULL.txt
+- Assets/Resources/hamlet/background.png
+- Assets/Resources/hamlet/horatio.png
+- Assets/Resources/hamlet/script.txt
+- Assets/Resources/hamlet/francisco.png
+- Assets/Resources/hamlet/marcellus.png
+- Assets/Resources/hamlet/ActOneSceneOneCast.txt
+- Assets/Resources/hamlet/bernardo.png
+- Assets/Resources/hamlet/cast.txt
+Dependencies: []

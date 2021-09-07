@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2765295210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 150d6ed2af303378b30c2ba00e333a4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ecc2e8d717629781f019ff30323ba53
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/macbeth/horatio.png
+- Assets/Resources/macbeth/francisco.png
+- Assets/Resources/macbeth/background.png
+- Assets/Resources/macbeth/marcellus.png
+- Assets/Resources/macbeth/bernardo.png
+- Assets/Resources/macbeth/cast.txt
+- Assets/Resources/macbeth/script.txt
+Dependencies: []
